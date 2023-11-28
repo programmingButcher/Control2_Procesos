@@ -12,6 +12,6 @@ PeluqueriaJC (main: aqui se encontraran la variables basicas para que funcione e
 estas variables estan condicionadas a que existe mayor numero de sillas que peluqueros activos 
 1. el numero de peluqueros empleados
 2. cuantas sillas cuenta el local
-3. el numero de clientes que vendran hoy a la peluqeira
+3. el numero de clientes que vendran hoy a la peluqueria
 )
 
